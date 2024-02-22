@@ -1,0 +1,3 @@
+yarn lint:fix
+yarn lint:format
+yarn test
